@@ -1,3 +1,4 @@
+// Navbar:
 import React from 'react'
 import "./Categories.css"
 import CategoryItem from './CategoryItem'
