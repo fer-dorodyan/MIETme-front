@@ -1,0 +1,30 @@
+.previewImg{
+    max-width: 80%;
+    max-height: 400px;
+}
+.image-card{
+    height: 200px;
+}
+.bi-heart{
+    cursor: pointer;
+}
+.username{
+    font-size: 11pt;
+}
+.description{
+    font-size: 9pt!important;
+}
+
+.react-datepicker{
+    position: absolute!important;
+    top: 50px;
+    left: 20px;
+}
+.calender-btn{
+    background-color: #216ba1!important;
+}
+
+.datePickerHint {
+    font-size: 0.75rem;
+    color: #56a804;
+}
